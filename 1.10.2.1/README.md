@@ -6,4 +6,4 @@
 - Added Items Count Text
 - Added Block Switcher
 
-[Play 1.10.2.1](BargmyAppStore.github.io/Placer/1.10.2.1/app/index.html)
+[Play 1.10.2.1](https://BargmyAppStore.github.io/Placer/1.10.2.1/app/index.html)
